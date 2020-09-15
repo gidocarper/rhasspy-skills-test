@@ -1,0 +1,7 @@
+{
+  "dateService" : {
+    "whenIsChristmas": "There are {} days until Christmas, not including today.",
+    "whatDayIsIt": "Today is {} ",
+    "whatIsTheTime": "The time is {} "
+  }
+}

@@ -1,0 +1,251 @@
+[
+  {
+    "name": "ndr welle nord kiel",
+    "url": "https://ndr-edge-2045-fra-lg-cdn.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3",
+    "image": ""
+  },
+  {
+    "name": "ndr 2 Hamburg",
+    "url": "https://ndr-edge-20ad-fra-lg-cdn.cast.addradio.de/ndr/ndr2/hamburg/mp3/128/stream.mp3?_art=dj0yJmlwPTc3LjguMzUuMjgmaWQ9aWNzY3hsLWNodW9jM2xsYiZ0PTE1OTgxNjEwODgmcz03ODY2ZjI5YyNkN2Y1N2EwYTMwNTJjYTllNDVkMWQyZjc1MmQyZjZkMQ",
+    "image": ""
+  },
+  {
+    "name": "Deutschland Funk",
+    "url": "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3",
+    "image": ""
+  },
+  {
+    "name": "Deutschlandfunk Kultur",
+    "url": "http://st02.dlf.de/dlf/02/128/mp3/stream.mp3",
+    "image": ""
+  },
+    {
+    "name": "Bayern 1",
+    "url": "http://streams.br.de/bayern1fran_1.m3u",
+    "image": ""
+  },
+    {
+    "name": "Hessischer Rundfunk",
+    "url": "http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3",
+    "image": ""
+  },
+    {
+    "name": "mdr",
+    "url": "Mitteldeutscher Rundfunk",
+    "image": ""
+  },
+    {
+    "name": "n joy",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u",
+    "image": ""
+  },
+    {
+    "name": "ndr 2",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u",
+    "image": ""
+  },
+    {
+    "name": "Radio Bremen",
+    "url": "http://dl-ondemand.radiobremen.de/bremeneins.m3u",
+    "image": ""
+  },
+    {
+    "name": "r b b",
+    "url": "http://www.radioberlin.de/live.m3u",
+    "image": ""
+  },
+    {
+    "name": "Saarländischer Rundfunk",
+    "url": "http://streaming01.sr-online.de/sr1_2.m3u",
+    "image": ""
+  },
+    {
+    "name": "Südwestrundfunk",
+    "url": "http://mp3-live.swr.de/swr1bw_m.m3u",
+    "image": ""
+  },
+    {
+    "name": "Westdeutscher Rundfunk",
+    "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+    "image": ""
+  },
+    {
+    "name": "70er Hits",
+    "url": "http://saw-de-hz-fal-stream04-cluster01.radiohost.de/saw-70er_128",
+    "image": ""
+  },
+    {
+    "name": "80er Hits",
+    "url": "http://saw-de-hz-fal-stream03-cluster01.radiohost.de/saw-80er_128",
+    "image": ""
+  },
+    {
+    "name": "90er Hits",
+    "url": " http://saw-de-hz-fal-stream03-cluster01.radiohost.de/saw-90er_128",
+    "image": ""
+  },
+    {
+    "name": "2000-er Hits",
+    "url": "http://saw-de-hz-fal-stream05-cluster01.radiohost.de/saw-2000er_128",
+    "image": ""
+  },
+    {
+    "name": "Hits für kids",
+    "url": "http://saw-de-hz-fal-stream06-cluster01.radiohost.de/saw-kids_128",
+    "image": ""
+  },
+    {
+    "name": "Partyschlager",
+    "url": "http://saw-de-hz-fal-stream02-cluster01.radiohost.de/saw-partyschlager_128",
+    "image": ""
+  },
+    {
+    "name": "Rock songs",
+    "url": "http://saw-de-hz-fal-stream04-cluster01.radiohost.de/saw-rock_128",
+    "image": ""
+  },
+    {
+    "name": "Neuheiten",
+    "url": "http://saw-de-hz-fal-stream04-cluster01.radiohost.de/saw-neuheiten_128",
+    "image": ""
+  },
+    {
+    "name": "Fitness Hits",
+    "url": "http://saw-de-hz-fal-stream01-cluster01.radiohost.de:80/saw-fitness_128",
+    "image": ""
+  },
+    {
+    "name": "Deutsch Hits",
+    "url": "http://saw-de-hz-fal-stream04-cluster01.radiohost.de/saw-deutsch_128",
+    "image": ""
+  },
+    {
+    "name": "80er Radio",
+    "url": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/",
+    "image": ""
+  },
+    {
+    "name": "Love",
+    "url": "http://streams.80s80s.de/love/mp3-192/streams.80s80s.de/",
+    "image": ""
+  },
+    {
+    "name": "Prince",
+    "url": "http://streams.80s80s.de/100/mp3-192/streams.80s80s.de/",
+    "image": ""
+  },
+    {
+    "name": "Michael Jackson",
+    "url": "http://streams.80s80s.de/mj/mp3-192/streams.80s80s.de/",
+    "image": ""
+  },
+    {
+    "name": "Weihnacht",
+    "url": "http://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/",
+    "image": ""
+  },
+    {
+    "name": "mix",
+    "url": "http://stream.89.0rtl.de/mix/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "Deutsch Rap",
+    "url": "http://stream.89.0rtl.de/deutsch-rap/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "Deutsch House",
+    "url": "http://stream.89.0rtl.de/deutschhouse/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "Trending",
+    "url": "http://stream.89.0rtl.de/trend/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "party mix",
+    "url": "http://stream.rs2.de/rs2-relax/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "60er 70er",
+    "url": "http://stream.104.6rtl.com/rtl-60er70er/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "charts",
+    "url": "http://streams.bigfm.de/bigfm-charts-128-aac",
+    "image": ""
+  },
+    {
+    "name": "raggea",
+    "url": "http://streams.bigfm.de/bigfm-reggaevibes-128-aac",
+    "image": ""
+  },
+    {
+    "name": "world hits",
+    "url": "http://streams.bigfm.de/bigfm-worldbeats-128-aac",
+    "image": ""
+  },
+    {
+    "name": "Delta",
+    "url": "http://streams.deltaradio.de/delta-live/mp3-192",
+    "image": ""
+  },
+    {
+    "name": "Energy",
+    "url": "http://cdn.nrjaudio.fm/adwz1/de/33019/mp3_128.mp3",
+    "image": ""
+  },
+    {
+    "name": "f f h",
+    "url": "http://mp3.ffh.de/radioffh/hqlivestream.mp3",
+    "image": ""
+  },
+    {
+    "name": "hamburg 2",
+    "url": "http://stream.hamburg-zwei.de/live/mp3-128",
+    "image": ""
+  },
+    {
+    "name": "rtl",
+    "url": "http://stream.rtlradio.de/rtl-de-national/mp3-192",
+    "image": ""
+  },
+    {
+    "name": "Rock classics",
+    "url": "http://85.25.43.55:80/rock_classics.mp3",
+    "image": ""
+  },
+    {
+    "name": "Sunshine house",
+    "url": "http://stream.sunshine-live.de/house/mp3-192",
+    "image": ""
+  },
+    {
+    "name": "sunshine trance",
+    "url": "http://stream.sunshine-live.de/trance/mp3-192",
+    "image": ""
+  },
+    {
+    "name": "sunshine lounge",
+    "url": "http://stream.sunshine-live.de/lounge/mp3-192",
+    "image": ""
+  },
+    {
+    "name": "sunshine drum and bass",
+    "url": "http://stream.sunshine-live.de/dnb/mp3-192",
+    "image": ""
+  },
+    {
+    "name": "italia",
+    "url": "http://webradio.antennevorarlberg.at/italiana",
+    "image": ""
+  }
+]
+
+
+
+

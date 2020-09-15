@@ -1,0 +1,7 @@
+{
+  "Gasoline": {
+        "benzine":  "Der günstigste Benzin kostet gerade: {0}€, bei {1}  an der {2} {3}, {4}, {5}",
+        "diesel": "Der günstigste Diesel kostet gerade: {0}€, bei {1}  an der {2} {3}, {4}, {5}",
+        "noInternet": "Ich bin nicht mit dem Internet verbunden."
+  }
+}

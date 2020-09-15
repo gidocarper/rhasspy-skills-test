@@ -1,0 +1,9 @@
+{
+  "Radio": {
+    "playing_now": "Playin now the radio station {} ",
+    "playing": "Okay, playin {} now",
+    "okay": "Okay!",
+    "error_radio_station_list": "I did not find any radio station list, please fill the fiel radio underscore station underscore en dot json with values",
+    "error_radio_station_not_found": "Internet Radio Sender not found"
+  }
+}

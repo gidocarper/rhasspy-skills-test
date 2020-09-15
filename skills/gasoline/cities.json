@@ -1,0 +1,602 @@
+[
+  {
+    "city": "Aachen",
+    "country": "Germany",
+    "lat": "50.7766356",
+    "lon": "6.0834217"
+  },
+  {
+    "city": "Augsburg",
+    "country": "Germany",
+    "lat": "48.3666667",
+    "lon": "10.8833332"
+  },
+  {
+    "city": "Bergisch Gladbach",
+    "country": "Germany",
+    "lat": "50.9833333",
+    "lon": "7.1333332"
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": "52.5166667",
+    "lon": "13.3999996"
+  },
+  {
+    "city": "Bielefeld",
+    "country": "Germany",
+    "lat": "52.0333333",
+    "lon": "8.5333328"
+  },
+  {
+    "city": "Bochum",
+    "country": "Germany",
+    "lat": "51.4833333",
+    "lon": "7.2166667"
+  },
+  {
+    "city": "Bonn",
+    "country": "Germany",
+    "lat": "50.7333333",
+    "lon": "7.0999999"
+  },
+  {
+    "city": "Bottrop",
+    "country": "Germany",
+    "lat": "51.5166667",
+    "lon": "6.9166665"
+  },
+  {
+    "city": "Braunschweig",
+    "country": "Germany",
+    "lat": "52.2666667",
+    "lon": "10.5333328"
+  },
+  {
+    "city": "Bremen",
+    "country": "Germany",
+    "lat": "53.0751557",
+    "lon": "8.8077736"
+  },
+  {
+    "city": "Bremerhaven",
+    "country": "Germany",
+    "lat": "53.5500000",
+    "lon": "8.5833330"
+  },
+  {
+    "city": "Chemnitz",
+    "country": "Germany",
+    "lat": "50.8333333",
+    "lon": "12.9166670"
+  },
+  {
+    "city": "Cottbus",
+    "country": "Germany",
+    "lat": "51.7666667",
+    "lon": "14.3333330"
+  },
+  {
+    "city": "Darmstadt",
+    "country": "Germany",
+    "lat": "49.8705556",
+    "lon": "8.6494446"
+  },
+  {
+    "city": "Dortmund",
+    "country": "Germany",
+    "lat": "51.5166667",
+    "lon": "7.4499998"
+  },
+  {
+    "city": "Dresden",
+    "country": "Germany",
+    "lat": "51.0508911",
+    "lon": "13.7383175"
+  },
+  {
+    "city": "Duisburg",
+    "country": "Germany",
+    "lat": "51.4333333",
+    "lon": "6.7500000"
+  },
+  {
+    "city": "Duren",
+    "country": "Germany",
+    "lat": "50.8000000",
+    "lon": "6.4833331"
+  },
+  {
+    "city": "Dusseldorf",
+    "country": "Germany",
+    "lat": "51.2217226",
+    "lon": "6.7761612"
+  },
+  {
+    "city": "Erfurt",
+    "country": "Germany",
+    "lat": "50.9833333",
+    "lon": "11.0333328"
+  },
+  {
+    "city": "Erlangen",
+    "country": "Germany",
+    "lat": "49.5897222",
+    "lon": "11.0038891"
+  },
+  {
+    "city": "Essen",
+    "country": "Germany",
+    "lat": "51.4500000",
+    "lon": "7.0166669"
+  },
+  {
+    "city": "Esslingen",
+    "country": "Germany",
+    "lat": "48.7396066",
+    "lon": "9.3047333"
+  },
+  {
+    "city": "Flensburg",
+    "country": "Germany",
+    "lat": "54.7833333",
+    "lon": "9.4333334"
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "lat": "50.1166667",
+    "lon": "8.6833334"
+  },
+  {
+    "city": "Freiburg",
+    "country": "Germany",
+    "lat": "47.9958954",
+    "lon": "7.8522205"
+  },
+  {
+    "city": "Furth",
+    "country": "Germany",
+    "lat": "49.4759325",
+    "lon": "10.9885597"
+  },
+  {
+    "city": "Gelsenkirchen-Alt",
+    "country": "Germany",
+    "lat": "51.5166667",
+    "lon": "7.1166668"
+  },
+  {
+    "city": "Gera",
+    "country": "Germany",
+    "lat": "50.8666667",
+    "lon": "12.0833330"
+  },
+  {
+    "city": "Gottingen",
+    "country": "Germany",
+    "lat": "51.5333333",
+    "lon": "9.9333334"
+  },
+  {
+    "city": "Gutersloh",
+    "country": "Germany",
+    "lat": "51.9000000",
+    "lon": "8.3833332"
+  },
+  {
+    "city": "Hagen",
+    "country": "Germany",
+    "lat": "51.3500000",
+    "lon": "7.4666667"
+  },
+  {
+    "city": "Halle",
+    "country": "Germany",
+    "lat": "51.5000000",
+    "lon": "12.0000000"
+  },
+  {
+    "city": "Halle-Neustadt",
+    "country": "Germany",
+    "lat": "51.4833333",
+    "lon": "11.9333334"
+  },
+  {
+    "city": "Hamburg",
+    "country": "Germany",
+    "lat": "53.5500000",
+    "lon": "10.0000000"
+  },
+  {
+    "city": "Hamm",
+    "country": "Germany",
+    "lat": "51.6803258",
+    "lon": "7.8208923"
+  },
+  {
+    "city": "Hanau am Main",
+    "country": "Germany",
+    "lat": "50.1333333",
+    "lon": "8.9166670"
+  },
+  {
+    "city": "Hannover",
+    "country": "Germany",
+    "lat": "52.3705163",
+    "lon": "9.7332211"
+  },
+  {
+    "city": "Heidelberg",
+    "country": "Germany",
+    "lat": "49.4076783",
+    "lon": "8.6907864"
+  },
+  {
+    "city": "Heilbronn",
+    "country": "Germany",
+    "lat": "49.1402778",
+    "lon": "9.2200003"
+  },
+  {
+    "city": "Herne",
+    "country": "Germany",
+    "lat": "51.5500000",
+    "lon": "7.2166667"
+  },
+  {
+    "city": "Hildesheim",
+    "country": "Germany",
+    "lat": "52.1500000",
+    "lon": "9.9666672"
+  },
+  {
+    "city": "Ingolstadt",
+    "country": "Germany",
+    "lat": "48.7666667",
+    "lon": "11.4333334"
+  },
+  {
+    "city": "Iserlohn",
+    "country": "Germany",
+    "lat": "51.3666667",
+    "lon": "7.6999998"
+  },
+  {
+    "city": "Jena",
+    "country": "Germany",
+    "lat": "50.9333333",
+    "lon": "11.5833330"
+  },
+  {
+    "city": "Kaiserslautern",
+    "country": "Germany",
+    "lat": "49.4500000",
+    "lon": "7.7500000"
+  },
+  {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "lat": "49.0047222",
+    "lon": "8.3858337"
+  },
+  {
+    "city": "Kassel",
+    "country": "Germany",
+    "lat": "51.3166667",
+    "lon": "9.5000000"
+  },
+  {
+    "city": "Kiel",
+    "country": "Germany",
+    "lat": "54.3213293",
+    "lon": "10.1348877"
+  },
+  {
+    "city": "Koblenz",
+    "country": "Germany",
+    "lat": "50.3500000",
+    "lon": "7.5999999"
+  },
+  {
+    "city": "Koeln",
+    "country": "Germany",
+    "lat": "50.9333333",
+    "lon": "6.9499998"
+  },
+  {
+    "city": "Krefeld",
+    "country": "Germany",
+    "lat": "51.3333333",
+    "lon": "6.5666666"
+  },
+  {
+    "city": "Leipzig",
+    "country": "Germany",
+    "lat": "51.3396200",
+    "lon": "12.3712921"
+  },
+  {
+    "city": "Leverkusen",
+    "country": "Germany",
+    "lat": "51.0333333",
+    "lon": "7.0000000"
+  },
+  {
+    "city": "Lubeck",
+    "country": "Germany",
+    "lat": "53.8689270",
+    "lon": "10.6872940"
+  },
+  {
+    "city": "Ludwigsburg",
+    "country": "Germany",
+    "lat": "48.8973114",
+    "lon": "9.1916084"
+  },
+  {
+    "city": "Ludwigshafen am Rhein",
+    "country": "Germany",
+    "lat": "49.4811111",
+    "lon": "8.4352779"
+  },
+  {
+    "city": "Lunen",
+    "country": "Germany",
+    "lat": "51.6166667",
+    "lon": "7.5166669"
+  },
+  {
+    "city": "Magdeburg",
+    "country": "Germany",
+    "lat": "52.1666667",
+    "lon": "11.6666670"
+  },
+  {
+    "city": "Mainz",
+    "country": "Germany",
+    "lat": "50.0000000",
+    "lon": "8.2711115"
+  },
+  {
+    "city": "Mannheim",
+    "country": "Germany",
+    "lat": "49.4883333",
+    "lon": "8.4647226"
+  },
+  {
+    "city": "Marl",
+    "country": "Germany",
+    "lat": "51.6500000",
+    "lon": "7.0833335"
+  },
+  {
+    "city": "Minden",
+    "country": "Germany",
+    "lat": "52.2833333",
+    "lon": "8.9166670"
+  },
+  {
+    "city": "Moers",
+    "country": "Germany",
+    "lat": "51.4500000",
+    "lon": "6.6500001"
+  },
+  {
+    "city": "Monchengladbach",
+    "country": "Germany",
+    "lat": "51.2000000",
+    "lon": "6.4333334"
+  },
+  {
+    "city": "Muenchen",
+    "country": "Germany",
+    "lat": "48.1376831",
+    "lon": "11.5743542"
+  },
+  {
+    "city": "Mulheim an der Ruhr",
+    "country": "Germany",
+    "lat": "51.4333333",
+    "lon": "6.8833332"
+  },
+  {
+    "city": "Munster",
+    "country": "Germany",
+    "lat": "51.9623559",
+    "lon": "7.6257133"
+  },
+  {
+    "city": "Neuss",
+    "country": "Germany",
+    "lat": "51.2000000",
+    "lon": "6.6833334"
+  },
+  {
+    "city": "Neustadt",
+    "country": "Germany",
+    "lat": "52.1500000",
+    "lon": "11.6333332"
+  },
+  {
+    "city": "Nuernberg",
+    "country": "Germany",
+    "lat": "49.4477778",
+    "lon": "11.0683336"
+  },
+  {
+    "city": "Oberhausen",
+    "country": "Germany",
+    "lat": "51.4666667",
+    "lon": "6.8499999"
+  },
+  {
+    "city": "Offenbach",
+    "country": "Germany",
+    "lat": "50.1000000",
+    "lon": "8.7666664"
+  },
+  {
+    "city": "Oldenburg",
+    "country": "Germany",
+    "lat": "53.1666667",
+    "lon": "8.1999998"
+  },
+  {
+    "city": "Osnabruck",
+    "country": "Germany",
+    "lat": "52.2666667",
+    "lon": "8.0500002"
+  },
+  {
+    "city": "Paderborn",
+    "country": "Germany",
+    "lat": "51.7190528",
+    "lon": "8.7543869"
+  },
+  {
+    "city": "Pforzheim",
+    "country": "Germany",
+    "lat": "48.8833333",
+    "lon": "8.6999998"
+  },
+  {
+    "city": "Potsdam",
+    "country": "Germany",
+    "lat": "52.3988578",
+    "lon": "13.0656624"
+  },
+  {
+    "city": "Ratingen",
+    "country": "Germany",
+    "lat": "51.2972421",
+    "lon": "6.8492889"
+  },
+  {
+    "city": "Recklinghausen",
+    "country": "Germany",
+    "lat": "51.6166667",
+    "lon": "7.1999998"
+  },
+  {
+    "city": "Regensburg",
+    "country": "Germany",
+    "lat": "49.0150000",
+    "lon": "12.0955553"
+  },
+  {
+    "city": "Remscheid",
+    "country": "Germany",
+    "lat": "51.1833333",
+    "lon": "7.1999998"
+  },
+  {
+    "city": "Reutlingen",
+    "country": "Germany",
+    "lat": "48.4914400",
+    "lon": "9.2042685"
+  },
+  {
+    "city": "Rostock",
+    "country": "Germany",
+    "lat": "54.0886975",
+    "lon": "12.1404934"
+  },
+  {
+    "city": "Saarbrucken",
+    "country": "Germany",
+    "lat": "49.2333333",
+    "lon": "7.0000000"
+  },
+  {
+    "city": "Schwerin",
+    "country": "Germany",
+    "lat": "53.6333333",
+    "lon": "11.3833332"
+  },
+  {
+    "city": "Siegen",
+    "country": "Germany",
+    "lat": "50.8666667",
+    "lon": "8.0333328"
+  },
+  {
+    "city": "Solingen",
+    "country": "Germany",
+    "lat": "51.1833333",
+    "lon": "7.0833335"
+  },
+  {
+    "city": "Stuttgart",
+    "country": "Germany",
+    "lat": "48.7823243",
+    "lon": "9.1770172"
+  },
+  {
+    "city": "Trier",
+    "country": "Germany",
+    "lat": "49.7556526",
+    "lon": "6.6393471"
+  },
+  {
+    "city": "Tubingen",
+    "country": "Germany",
+    "lat": "48.5226590",
+    "lon": "9.0522194"
+  },
+  {
+    "city": "Ulm",
+    "country": "Germany",
+    "lat": "48.3984084",
+    "lon": "9.9915504"
+  },
+  {
+    "city": "Velbert",
+    "country": "Germany",
+    "lat": "51.3333333",
+    "lon": "7.0500002"
+  },
+  {
+    "city": "Wiesbaden",
+    "country": "Germany",
+    "lat": "50.0833333",
+    "lon": "8.2500000"
+  },
+  {
+    "city": "Wilhelmshaven",
+    "country": "Germany",
+    "lat": "53.5166667",
+    "lon": "8.1333332"
+  },
+  {
+    "city": "Witten",
+    "country": "Germany",
+    "lat": "51.4333333",
+    "lon": "7.3333335"
+  },
+  {
+    "city": "Wolfsburg",
+    "country": "Germany",
+    "lat": "52.4333333",
+    "lon": "10.8000002"
+  },
+  {
+    "city": "Wuppertal",
+    "country": "Germany",
+    "lat": "51.2666667",
+    "lon": "7.1833334"
+  },
+  {
+    "city": "Wurzburg",
+    "country": "Germany",
+    "lat": "49.7877778",
+    "lon": "9.9361115"
+  },
+  {
+    "city": "Zwickau",
+    "country": "Germany",
+    "lat": "50.7333333",
+    "lon": "12.5000000"
+  }
+]

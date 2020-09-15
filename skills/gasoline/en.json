@@ -1,0 +1,7 @@
+{
+  "Gasoline": {
+        "benzine":  "The cheapest Benzin costs  {0}€, at the gasstation {1}  at the {2} {3}, {4}, {5}",
+        "diesel":  "The cheapest Diesel costs  {0}€, at the gasstation {1}  at the {2} {3}, {4}, {5}",
+        "noInternet": "Get me connected, I lost the internet."
+  }
+}

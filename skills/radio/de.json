@@ -1,0 +1,9 @@
+{
+  "Radio": {
+    "playing_now": "Es spielt der Sender {} ",
+    "playing": "Okay, hier ist der Radio Sender {}",
+    "okay": "Okay!",
+    "error_radio_station_list": "Habe keine Radio liste gefunde, bitte fuelle die Datei radio unterstrich station unterstrich de punkt json mit werten",
+    "error_radio_station_not_found": "Internet Radio Sender nicht gefunden"
+  }
+}
