@@ -1,9 +1,8 @@
-import logging
-import json, random, os
+import json,  os
 import io, configparser
 
 from rhasspyhermes.nlu import NluIntent
-from rhasspyhermes_app import EndSession, HermesApp, TopicData
+from rhasspyhermes_app import EndSession, HermesApp
 
 from gasoline import Gasoline
 

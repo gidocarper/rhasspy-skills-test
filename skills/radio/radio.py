@@ -1,6 +1,5 @@
 import vlc
-import time, threading, random, json, os
-from subprocess import call
+import threading, json, os
 
 class Radio:
     def __init__(self, config):
