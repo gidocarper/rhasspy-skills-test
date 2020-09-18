@@ -66,7 +66,8 @@ class Gasoline:
     def benzin_price(self, city):
         fuel_prices = self.get_fuelprices(city)
         response = ''
-
+        print('fuel_prices',  fuel_prices)
+        print(' fuel_prices[status]', fuel_prices['status'])
         if fuel_prices['status'] == 'ok':
             cheapest = {"e5": 1000.0}
 
@@ -93,7 +94,10 @@ class Gasoline:
                         "city": cheapest["place"]}
                     }
         else:
-            return  self.language['noInternet']
+            if fuel_prices['status'] == 'error':
+               return {"sentence": self.language['error']}
+
+        return {"sentence": self.language['noInternet']}
 
 
     def get_fuelprices(self, city):
@@ -106,7 +110,9 @@ class Gasoline:
             if city_config['latitude']:
                 latitude = city_config['latitude']
                 longitude = city_config['longitude']
-
+        print(' city', city)
+        print(' latitude', latitude)
+        print(' longitude', longitude)
         tankerkoenig_url = "{0}/json/list.php?lat={1}&lng={2}&rad={3}&sort={4}&type={5}&apikey={6}".format(
 	       self.config['gasoline_base_url'],
             latitude,
