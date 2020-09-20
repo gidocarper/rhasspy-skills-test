@@ -12,7 +12,7 @@ app = HermesApp("RadioApp")
 def read_configuration_file():
     try:
         cp = configparser.ConfigParser()
-        with io.open(os.getcwd() + "/" + os.path.dirname(__file__) + "/config.ini", encoding="utf-8") as f:
+        with io.open(os.path.dirname(__file__) + "/config.ini", encoding="utf-8") as f:
             cp.read_file(f)
         return {section: {option_name: option for option_name, option in cp.items(section)}
                 for section in cp.sections()}
@@ -21,10 +21,13 @@ def read_configuration_file():
 
 def read_language_file(language):
     try:
-        messages_json_content = open(os.getcwd() + "/" + os.path.dirname(__file__) + '/' + language + '.json')
-        return json.load(messages_json_content)
+        print(os.path.dirname(__file__) + '/' + language + '.json')
+        with open(os.path.dirname(__file__) + '/' + language + ".json", 'r') as myfile:
+            messages_json_content = myfile.read()
+
+        return json.loads(messages_json_content)
     except:
-        return {}
+       return {}
 
 def get_slot_value_by_slot_name(intent, slot_name, default_value):
     jsonString = (NluIntent.to_json(intent))
@@ -56,7 +59,13 @@ async def stopListening(intent: NluIntent):
 
 if __name__ == "__main__":
     config = read_configuration_file()
+    print('=======')
+    print(config)
+    print('=======')
+    print(config['setup']['language'])
     language = read_language_file(config['setup']['language'])
+    print('=======')
     print(language)
+    print('=======')
     radio = Radio({"config": config, "language": language})
     app.run()

@@ -79,12 +79,22 @@ stop (die|der|das) (musik|video|song|playlist|internet radio|radio|radio sender)
 <li>if you are using the english version replace in the config.ini language=<i><b>de</b></i> with <i><b>en</b></i>
 <li>There is no english translation yet.
 <li>Save and train Rhasspy
-<li>install the requirements with
-<pre>chmod +x /home/pi/home/skills/date/action-date.py
-pip install -r requirements.txt</pre>
-<li>Then start the script with 
-<pre>python3 action-radio.py</pre> 
-<li>if it doesn't work install the vlc python player in this direcoty with:<pre>pip install python-vlc</pre>
+</li>
+<li>Now Save and train Rhasspy
+<li>install the skill as service:
+<pre>
+chmod +x setup.py
+chmod +x action-gasoline.py
+sudo ./setup.py
+</pre>
+After the script reboot the service should work. If it is not working check out
+<pre>systemctl list-units --type=service</pre>
+to see if the service started or check out any bugs with
+
+<pre>journalctl -xe</pre>
+
+
+if it doesn't work install the vlc python player in this direcoty with:<pre>pip install python-vlc</pre>
 
 
 

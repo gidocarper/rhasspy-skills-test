@@ -143,11 +143,19 @@ Ich muss (Diesel | Benzin){fullType} tanken
 This service only works in Germany so there is no english version here.
 </li>
 <li>Now Save and train Rhasspy
-<li>install the requirements with
-<pre>chmod +x action-gasoline.py
-pip install -r requirements.txt</pre>
-<li>Then start the script with 
-<pre>python3 action-gasoline.py</pre> 
+<li>install the skill as service:
+<pre>
+chmod +x setup.py
+chmod +x action-gasoline.py
+sudo ./setup.py
+</pre>
+
+After the script reboot the service should work. If it is not working check out
+<pre>systemctl list-units --type=service</pre>
+to see if the service started or check out any bugs with
+
+<pre>journalctl -xe</pre>
+ 
 
 
 

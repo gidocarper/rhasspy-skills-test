@@ -1,0 +1,11 @@
+[Unit]
+Description=tankerkoenig Gasoline app, check out where the bezin or diesel is cheapest
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/home/pi/rhasspy-skills-test/skills/gasoline/gasoline.sh
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
