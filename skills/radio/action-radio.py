@@ -59,13 +59,6 @@ async def stopListening(intent: NluIntent):
 
 if __name__ == "__main__":
     config = read_configuration_file()
-    print('=======')
-    print(config)
-    print('=======')
-    print(config['setup']['language'])
     language = read_language_file(config['setup']['language'])
-    print('=======')
-    print(language)
-    print('=======')
     radio = Radio({"config": config, "language": language})
     app.run()
