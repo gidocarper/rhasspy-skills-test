@@ -79,11 +79,11 @@ async def CalculatorDivision(intent: NluIntent):
 
 
 @app.on_intent("CalculatorRoot")
-async def get_date(intent: NluIntent):
+async def CalculatorRoot(intent: NluIntent):
     first_value = get_slot_value_by_slot_name(intent, 'first', None)
     if (first_value):
         sentence = calculator.root(first_value)
-        return end_session('GetDate', sentence)
+        return end_session('CalculatorRoot', sentence)
 
 
 if __name__ == "__main__":
