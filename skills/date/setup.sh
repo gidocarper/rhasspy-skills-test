@@ -16,7 +16,7 @@ touch /lib/systemd/system/rhasspy.skill.date.service
 
 echo "
 [Unit]
-Description=Rhasspy Volume Skill
+Description=Rhasspy Date Skill
 After=multi-user.target
 
 [Service]
