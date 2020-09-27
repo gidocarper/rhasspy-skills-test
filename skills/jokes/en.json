@@ -1,0 +1,6 @@
+{
+  "jokes": {
+        "error":  "I dont have any jokes",
+        "noInternet": "I dont have any internet access"
+  }
+}

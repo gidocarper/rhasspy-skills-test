@@ -145,9 +145,9 @@ This service only works in Germany so there is no english version here.
 <li>Now Save and train Rhasspy
 <li>install the skill as service:
 <pre>
-chmod +x setup.py
+chmod +x setup.sh
 chmod +x action-gasoline.py
-sudo ./setup.py
+sudo ./setup.sh
 </pre>
 
 After the script reboot the service should work. If it is not working check out
