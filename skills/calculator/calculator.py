@@ -42,7 +42,7 @@ class Calculator:
                 words = str(int(num))
             else:
                 pre, post = str(num).split('.')
-                words = "{} komma {}".format(pre, post)
+                words = self.language["comma_or_point"].format(pre, post)
         else:
             words = str(num)
         return words

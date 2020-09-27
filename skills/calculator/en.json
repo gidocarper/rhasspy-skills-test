@@ -5,6 +5,7 @@
     "multiplication": "{} multiplied by {} is {} .",
     "division": "{} diveded with {} is {} .",
     "division_impossible": "I can not dived a number with null.",
-    "root": "The root of {} is {} ."
+    "root": "The root of {} is {} .",
+    "comma_or_point":  "{} point {}"
   }
 }
