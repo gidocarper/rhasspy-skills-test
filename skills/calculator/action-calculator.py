@@ -42,7 +42,7 @@ def end_session(intent, sentence):
 
 
 
-############################################### Date and Time ###############################################
+############################################### calculator###############################################
 
 @app.on_intent("CalculatorAddition")
 async def CalculatorAddition(intent: NluIntent):
