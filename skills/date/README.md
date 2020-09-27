@@ -48,3 +48,9 @@ pip install -r requirements.txt</pre>
 <li>Then start the script with 
 <pre>python3 action-date.py</pre> 
 
+<li>install the skill as service:
+<pre>
+chmod +x setup.sh
+chmod +x date-setup.py
+sudo ./setup.sh
+</pre></li>
