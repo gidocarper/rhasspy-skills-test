@@ -1,0 +1,10 @@
+{
+  "calculator" : {
+    "addition": "{} plus {} ergibt {} .",
+    "subtraction": "{} minus {} ergibt {} .",
+    "multiplication": "{} mal {} ergibt {} .",
+    "division": "{} durch {} ergibt {} .",
+    "division_impossible": "Ich kann leider nicht durch Null teilen.",
+    "root": "Die Wurzel aus {} ist {} ."
+  }
+}
