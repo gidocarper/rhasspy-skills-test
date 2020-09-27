@@ -51,6 +51,6 @@ pip install -r requirements.txt</pre>
 <li>install the skill as service:
 <pre>
 chmod +x setup.sh
-chmod +x date-setup.py
+chmod +x action-date.py
 sudo ./setup.sh
 </pre></li>
