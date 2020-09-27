@@ -83,9 +83,9 @@ stop (die|der|das) (musik|video|song|playlist|internet radio|radio|radio sender)
 <li>Now Save and train Rhasspy
 <li>install the skill as service:
 <pre>
-chmod +x setup.py
-chmod +x action-gasoline.py
-sudo ./setup.py
+chmod +x setup.sh
+chmod +x action-radio.py
+sudo ./setup.sh
 </pre>
 After the script reboot the service should work. If it is not working check out
 <pre>systemctl list-units --type=service</pre>

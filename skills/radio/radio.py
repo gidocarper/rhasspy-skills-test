@@ -65,7 +65,7 @@ class Radio:
         self.radio_station_url = None
         self.radio_station_name = None
         self.backgroundthread = None
-        return self.messages["Radio"]["okay"]
+        return ''
 
     def playingRadio(self):
         if self.radio_station_url:
