@@ -64,15 +64,19 @@ root of (1..10){$number}{first}
 </pre>
 </li>
 
-<li>if you are using the english version replace in the config.ini language=<i><b>de</b></i> with <i><b>en</b></i>
-<li>Save and train Rhasspy
-<li>Now Save and train Rhasspy
+<li>if you are using the english version replace in the config.ini language=<i><b>de</b></i> with <i><b>en</b></i></li>
+<li>Save and train Rhasspy</li>
+<li>Test the skill with:
+<pre>
+python3 action-calculator.py
+</pre>
 <li>install the skill as service:
 <pre>
 chmod +x setup.sh
 chmod +x action-calculator.py
 sudo ./setup.sh
-</pre>
+</pre></li>
+
 After the script reboot the service should work. If it is not working check out
 <pre>systemctl list-units --type=service</pre>
 to see if the service started or check out any bugs with
