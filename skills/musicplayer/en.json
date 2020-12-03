@@ -1,0 +1,19 @@
+{
+    "musicPlayer": {
+        "scanningIsDone": "I am done scanning your music",
+        "foundNewSongs": "I am done scanning. Hey Cool, you got {} new songs",
+        "removedSongs": "I am done scanning. Looks like you deleted {} Songs",
+        "startedPlaying": "Okay",
+        "playListEnded": "Sorry this was the last song",
+        "nextSong": "Okay",
+        "previuosSong": "Okay",
+        "stoppedTheMusic": "Okay music stopped",
+        "addMp3ToPlaylist": {
+            "noMusicIsRunning": "I don't hear any music",
+            "songAddedToPlaylist": "Song was added to your {} Playlist"
+        },
+        "notFound": "I did not find any music of {}",
+        "addedStars": "Okay {} stars added",
+        "whatIsPlaying": "{} from {}"
+    }
+}
